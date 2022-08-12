@@ -14,6 +14,9 @@ public class Vehicle {
         Color = color;
     }
 
+    public void move(int Speed){
+    }
+
     public int getNumberOfWheels() {
         return numberOfWheels;
     }

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="085526a3-a341-462c-84f2-9b1b4d0f84c5" name="Changes" comment="Car class created and numberOfGears to Vehicle class added.">
+    <list default="true" id="085526a3-a341-462c-84f2-9b1b4d0f84c5" name="Changes" comment="Getters and setters for class Vehicle">
       <change beforePath="$PROJECT_DIR$/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,8 @@
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RunManager">
@@ -64,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660315108374</updated>
-      <workItem from="1660315110601" duration="904000" />
+      <workItem from="1660315110601" duration="1252000" />
     </task>
     <task id="LOCAL-00001" summary="Vehicle class created.">
       <created>1660315719926</created>
@@ -80,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660315923377</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Constructor and getters and setters for class Vehicle">
+      <created>1660316052392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660316052392</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Getters and setters for class Vehicle">
+      <created>1660316096882</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660316096882</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +115,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Vehicle class created." />
     <MESSAGE value="Car class created and numberOfGears to Vehicle class added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Car class created and numberOfGears to Vehicle class added." />
+    <MESSAGE value="Constructor and getters and setters for class Vehicle" />
+    <MESSAGE value="Getters and setters for class Vehicle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getters and setters for class Vehicle" />
   </component>
 </project>
