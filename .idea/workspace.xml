@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="085526a3-a341-462c-84f2-9b1b4d0f84c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="085526a3-a341-462c-84f2-9b1b4d0f84c5" name="Changes" comment="Car class created and numberOfGears to Vehicle class added.">
+      <change beforePath="$PROJECT_DIR$/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +64,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660315108374</updated>
-      <workItem from="1660315110601" duration="590000" />
+      <workItem from="1660315110601" duration="904000" />
     </task>
+    <task id="LOCAL-00001" summary="Vehicle class created.">
+      <created>1660315719926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660315719926</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Car class created and numberOfGears to Vehicle class added.">
+      <created>1660315923377</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660315923377</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +96,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Vehicle class created." />
+    <MESSAGE value="Car class created and numberOfGears to Vehicle class added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Car class created and numberOfGears to Vehicle class added." />
   </component>
 </project>
