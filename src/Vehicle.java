@@ -14,14 +14,22 @@ public class Vehicle {
         Color = color;
     }
 
-    public void move(int Speed){
+    public void move(){
     }
 
     public void steering(String direction){
     }
 
-    public int getNumberOfWheels() {
-        return numberOfWheels;
+
+    public void changeGear(){
+    }
+
+    public void increaseSpeed(int speed){
+        speed += 1;
+    }
+
+    public void decreaseSpeed(int speed){
+        speed -= 1;
     }
 
     public void setNumberOfWheels(int numberOfWheels) {

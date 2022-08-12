@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="085526a3-a341-462c-84f2-9b1b4d0f84c5" name="Changes" comment="Getters and setters for class Vehicle">
+    <list default="true" id="085526a3-a341-462c-84f2-9b1b4d0f84c5" name="Changes" comment="Steering method for vehicle class">
       <change beforePath="$PROJECT_DIR$/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660315108374</updated>
-      <workItem from="1660315110601" duration="1252000" />
+      <workItem from="1660315110601" duration="1658000" />
     </task>
     <task id="LOCAL-00001" summary="Vehicle class created.">
       <created>1660315719926</created>
@@ -95,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660316096882</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Move method for vehicle class">
+      <created>1660316393515</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660316393515</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Steering method for vehicle class">
+      <created>1660316452774</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660316452775</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +131,8 @@
     <MESSAGE value="Car class created and numberOfGears to Vehicle class added." />
     <MESSAGE value="Constructor and getters and setters for class Vehicle" />
     <MESSAGE value="Getters and setters for class Vehicle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Getters and setters for class Vehicle" />
+    <MESSAGE value="Move method for vehicle class" />
+    <MESSAGE value="Steering method for vehicle class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Steering method for vehicle class" />
   </component>
 </project>
