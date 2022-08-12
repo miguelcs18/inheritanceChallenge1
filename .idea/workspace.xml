@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="085526a3-a341-462c-84f2-9b1b4d0f84c5" name="Changes" comment="Steering method for vehicle class">
-      <change beforePath="$PROJECT_DIR$/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+    <list default="true" id="085526a3-a341-462c-84f2-9b1b4d0f84c5" name="Changes" comment="Add Car class">
+      <change beforePath="$PROJECT_DIR$/src/Corolla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Corolla.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660315108374</updated>
-      <workItem from="1660315110601" duration="1658000" />
+      <workItem from="1660315110601" duration="2001000" />
     </task>
     <task id="LOCAL-00001" summary="Vehicle class created.">
       <created>1660315719926</created>
@@ -109,7 +109,35 @@
       <option name="project" value="LOCAL" />
       <updated>1660316452775</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Methods to increase and decrease speed for vehicle class">
+      <created>1660316826189</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660316826189</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Methods to increase and decrease speed for vehicle class">
+      <created>1660316921543</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660316921543</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Methods to increase and decrease speed for vehicle class">
+      <created>1660316935978</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660316935978</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add Car class">
+      <created>1660316964606</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660316964606</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +161,8 @@
     <MESSAGE value="Getters and setters for class Vehicle" />
     <MESSAGE value="Move method for vehicle class" />
     <MESSAGE value="Steering method for vehicle class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Steering method for vehicle class" />
+    <MESSAGE value="Methods to increase and decrease speed for vehicle class" />
+    <MESSAGE value="Add Car class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Car class" />
   </component>
 </project>
