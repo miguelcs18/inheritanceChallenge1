@@ -17,6 +17,9 @@ public class Vehicle {
     public void move(int Speed){
     }
 
+    public void steering(String direction){
+    }
+
     public int getNumberOfWheels() {
         return numberOfWheels;
     }
